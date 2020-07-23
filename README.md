@@ -1,3 +1,3 @@
 # Face-Recognition
-C# Face Recognition
-Esinlenme : https://www.gencayyildiz.com/blog/emgucv-multiple-face-recognitioncoklu-yuz-tanima/
+C# ile yapılmış yüz tanıma
+![alt text](https://raw.githubusercontent.com/ledmago/Face-Recognition/master/yuztanima.png)
